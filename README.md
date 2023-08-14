@@ -5,8 +5,8 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 
 ## Contents of the Repository
-The analysis is found in the "SurfsUp" folder under the climatestarter.ipynb file
-The website creation can be found under the app.py file
+The analysis is found in the "SurfsUp" folder under the climatestarter.ipynb file. \n
+The website creation can be found under the app.py file. \n
 All data can be found inside of the folder titled data inside of the EmployeeSQL folder
 
 
